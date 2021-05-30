@@ -10,12 +10,13 @@ body {
     margin: 0;
     padding: 10vh;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(13, 17, 23);
+    background-color: rgb(49, 54, 62);
     color: rgb(201, 209, 217);
 }
 
 .section-1 {
-    padding-top: 12vh;
+    padding-top: 15vh;
+    padding-left: 20vw;
     text-align: center;
 }
 
