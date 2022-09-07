@@ -10,8 +10,8 @@ body {
     margin: 0;
     padding: 10vh;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(32, 32, 32);
-    color: rgb(201, 209, 217);
+    background-color: rgb(237, 237, 237);
+    color: rgb(34, 53, 72);
 }
 
 .section-1 {
@@ -50,7 +50,7 @@ body {
     box-shadow: 0 5px 10px #7f8c8d;
     border-radius: 50%;
     max-width: none;
-    width: 20%;
+    width: 25%;
 }
 
 a {
